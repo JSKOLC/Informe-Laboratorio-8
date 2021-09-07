@@ -46,11 +46,14 @@ Objetivos Específicos:
 ![imagen](https://user-images.githubusercontent.com/85263529/132276776-c5a2d86f-195b-4a35-b99c-4f383bd7c304.png)
 
   Figura 8.1. Circuito con alimentación en c.a.
-
+  
 8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a  una frecuencia de 2.5 Khz. 
+
+![imagen](https://user-images.githubusercontent.com/85263529/132281911-41687030-485b-4c79-b85c-41a1c1a7a84c.png)
 
 8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en  el osciloscopio. 
 
+![imagen](https://user-images.githubusercontent.com/85263529/132282261-5ce93869-5c3a-46ba-8611-142d65f77463.png)
 
 8.6.RESPUESTA A INTERROGANTES:
 
