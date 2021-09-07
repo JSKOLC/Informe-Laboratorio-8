@@ -76,7 +76,7 @@ una trasmisión más eficiente de la energía.
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 
-Abarca aproximadamente 4.6 divisiones por cuadro
+Abarca aproximadamente 2.3 divisiones por cuadro
  
 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
@@ -95,16 +95,18 @@ del osciloscopio?
 
 Amplitud de voltaje: 6.85 (V) 
 
-T=1/f, f=0.0025 Hz
 
-Periodo:0.04 (s) 
+Periodo:4*0.1=0.4 ms=0.0004 (s) 
 
-8.6.3. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de 
-salida. 
+8.6.3. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida. 
 
-f: _____________(Hz) 
+f=1/periodo
 
-ω: ____________(rad/s) 
+f: 2500 (Hz) 
+
+ω=2\pi f
+
+ω: 15707.96(rad/s) 
 
 8.6.4. Con el multímetro digital mida el voltaje de salida en RL:
 
@@ -113,8 +115,9 @@ f: _____________(Hz)
 
 8.6.5. Compare el voltaje medido en el punto 8.6.2. y el obtenido en el punto 8.6.4. 
 
-¿Coinciden? _______ ¿Por qué? 
-_______________________________________________
+¿Coinciden?  ¿Por qué? 
+
+No, porque se debe a que la onda sinosoidal nunca es perfecta, solo se pueden considerar fiables las medidas tomadas con multímetros True RMS cuando se trabaja en instalaciones de corriente alterna.
 
 8.7.VIDEO: 
 
