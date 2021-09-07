@@ -64,31 +64,40 @@ una trasmisión más eficiente de la energía.
   
 8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a  una frecuencia de 2.5 Khz. 
 
-![imagen](https://user-images.githubusercontent.com/85263529/132281911-41687030-485b-4c79-b85c-41a1c1a7a84c.png)
+![imagen](https://user-images.githubusercontent.com/85263529/132359343-7bf8af46-7286-473d-9a56-7741a095c920.png)
 
 8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en  el osciloscopio. 
 
-![imagen](https://user-images.githubusercontent.com/85263529/132282261-5ce93869-5c3a-46ba-8611-142d65f77463.png)
+![imagen](https://user-images.githubusercontent.com/85263529/132360476-3f4726df-5b7a-455e-aae4-cb14eaca46ae.png)
 
 8.6.RESPUESTA A INTERROGANTES:
 
 8.6.1. Responda las siguientes preguntas: 
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
+
+Abarca aproximadamente 4.6 divisiones por cuadro
  
-¿En qué valor está posicionada la perilla VOLTS/DIV? ___________ 
+¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+Esta en la posición 3
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
-__________ 
 
-¿En qué valor está posicionada la perilla TIME/DIV? ___________ 
+El ciclo completo de ésta honda es de 4 cuadros
+
+¿En qué valor está posicionada la perilla TIME/DIV?
+
+La perilla está posicionada en el valor de 0.1m
 
 8.6.2.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla 
 del osciloscopio? 
 
-Amplitud de voltaje: ____________(V) 
+Amplitud de voltaje: 6.85 (V) 
 
-Periodo: ____________(s) 
+T=1/f, f=0.0025 Hz
+
+Periodo:0.04 (s) 
 
 8.6.3. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de 
 salida. 
@@ -97,7 +106,10 @@ f: _____________(Hz)
 
 ω: ____________(rad/s) 
 
-8.6.4. Con el multímetro digital mida el voltaje de salida en RL: _______________ 
+8.6.4. Con el multímetro digital mida el voltaje de salida en RL:
+
+![imagen](https://user-images.githubusercontent.com/85263529/132362382-8acf818c-6f4c-4ecf-b26c-ccec0a39f47d.png)
+
 
 8.6.5. Compare el voltaje medido en el punto 8.6.2. y el obtenido en el punto 8.6.4. 
 
