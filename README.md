@@ -20,8 +20,17 @@ TEMA: CARACTERISTICAS DE LA ONDA SENOIDAL
 
 Objetivos Generales:
 
+* Determinar experimentalmente las características de señales senoidales.
+
+
 Objetivos Específicos:
 
+
+* Aprender a utilizar el equipo eléctrico de medición de C.A.
+
+* Analizar la forma de onda.
+
+* Identificar los elementos principales de la onda de v
 
 
 
@@ -96,6 +105,20 @@ _______________________________________________
 
 8.8.CONCLUSIONES:
 
+* Podemos decir que en el análisis de circuitos eléctricos una señal senoidal, que representa la tensión o corriente se puede expresar
+
+matemáticamente como una función del tiempo por medio de una ecuación. Donde podemos encontrar las características básicas como son:
+
+valor eficaz, promedio, máximo, instantáneo, periodo, frecuencia, ciclo.
+
+
+* Se pudo comprobar que los valores conseguidos de los voltajes como de las corrientes fueron muy parecidas a los obtenidos mediante 
+
+la verificación del circuito analíticamente, con unos pequeños márgenes de error. Así como para las tablas, se pudo también evidenciar
+
+el uso del teorema de superposición, mediante las ecuaciones encontradas, los cálculos que llegan aparecer a simulación real, y así
+
+poder lograr que los valores sean precisos y casi exactos.
 
 
 
