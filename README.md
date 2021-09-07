@@ -41,6 +41,12 @@ Objetivos Específicos:
 
 8.3 INFORMACIÓN GENERAL:
 
+* Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y dirección varían periódicamente.
+
+La forma de onda de la corriente alterna más comúnmente utilizada es la de una onda senoidal, puesto que se consigue 
+
+una trasmisión más eficiente de la energía.
+
 
 
 8.4. MATERIAL Y EQUIPO REQUERIDO:
