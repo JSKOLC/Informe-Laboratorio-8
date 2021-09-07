@@ -49,6 +49,8 @@ una trasmisión más eficiente de la energía.
 
 8.4. MATERIAL Y EQUIPO REQUERIDO:
 
+![image](https://user-images.githubusercontent.com/85263529/132276307-312c02cb-4aef-4906-b575-976739ecea2c.png)
+
 
 8.5.PROCEDIMIENTO:
 
