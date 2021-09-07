@@ -15,6 +15,8 @@ PRÁCTICA No. 8
 TEMA: CARACTERISTICAS DE LA ONDA SENOIDAL
 
 
+
+
 8.1. OBJETIVO DE LA PRÁCTICA
 
 
@@ -35,6 +37,8 @@ Objetivos Específicos:
 
 
 8.2 MARCO TEORICO:
+
+![image](https://user-images.githubusercontent.com/85263529/132374944-e3ffe866-9638-4e0f-b454-3f0727325ce9.png)
 
 
 
@@ -120,6 +124,8 @@ f: 2500 (Hz)
 No, porque se debe a que la onda sinosoidal nunca es perfecta, solo se pueden considerar fiables las medidas tomadas con multímetros True RMS cuando se trabaja en instalaciones de corriente alterna.
 
 8.7.VIDEO: 
+
+https://youtu.be/tsh7UWi6YhU
 
 
 
